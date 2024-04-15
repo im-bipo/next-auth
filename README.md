@@ -1,13 +1,3 @@
-## Verupo Booking
-This is a vehicle rental site. Which is powred by [Next.js](http://nextjs.org). 
-Quick check out [Verupo Booking](https://example.com/) (<i>if direct link is not working, copy past this: https://example.com</i>)
-
-## Featured
-Here area some of the features of Verupo Booking
-- one
-- two
-
-
 ## Development Server Guide
 First, run the development server:
 
